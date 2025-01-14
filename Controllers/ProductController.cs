@@ -45,7 +45,7 @@ namespace ProductApi.Controllers
             }
             else
             {
-                return BadRequest("Ürün bulunamadı.");
+                return Ok("Ürün bulunamadı.");
             }
         }
     }

@@ -40,3 +40,4 @@
 /Users/fatmayilmaz/Documents/GitHub/ProductApi/obj/Debug/net8.0/ProductApi.pdb
 /Users/fatmayilmaz/Documents/GitHub/ProductApi/obj/Debug/net8.0/ProductApi.genruntimeconfig.cache
 /Users/fatmayilmaz/Documents/GitHub/ProductApi/obj/Debug/net8.0/ref/ProductApi.dll
+/Users/fatmayilmaz/Documents/GitHub/ProductApi/obj/Debug/net8.0/ProductApi.sourcelink.json
